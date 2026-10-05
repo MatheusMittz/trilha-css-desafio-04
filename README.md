@@ -99,6 +99,7 @@ desafio8/
 
 ## 🔗 Referências
 
+- [Protótipo no Figma (Desafio Responsividade - DIO)](https://www.figma.com/design/NRBYrG5d4DSzObv7dpTqoM/Desafio-Responsividade---DIO?node-id=0-1&p=f)
 - [Trilha CSS Web Developer na DIO](https://web.dio.me/track/formacao-css-web-developer)
 - [Desafio DIO: Construindo um layout responsivo para o site do Discord com CSS](https://web.dio.me/project/construindo-um-layout-responsivo-para-o-site-do-discord-com-css-responsividade-figma/learning/a3cf9543-935b-4977-a33f-7619d3a306d2?back=/track/formacao-css-web-developer)
 
